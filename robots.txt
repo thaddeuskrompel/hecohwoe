@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hiexeudiep.gn-shin.kr/sitemap.xml
